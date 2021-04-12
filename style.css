@@ -1,0 +1,14 @@
+body{
+    border-color:#D50000;
+    border-style:dashed;
+    color:#ff5100;
+    background-color:#05b462;
+    text-align:center;
+  }
+  #para{
+    font-size:80px;
+  }
+  #img{
+    width:300px;
+  }
+  
